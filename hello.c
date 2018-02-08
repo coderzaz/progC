@@ -6,7 +6,14 @@ int soma()
         int soma;
 
 	soma = a + b;
+	for (i = 0; i < count; i++) {
+		
+	}
+}
+func(){
+while (teste) {
 	
+}
 }
 int main(){
 	printf("Ola Git\n");
