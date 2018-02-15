@@ -15,6 +15,7 @@ while (teste) {
 	
 }
 }
+/*Modificação linuxMX */   
 int main(){
 	printf("Ola Git\n");
         printf("Novo comentario!\n");
